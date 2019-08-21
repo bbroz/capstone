@@ -12,8 +12,7 @@ Dataset: https://www.kaggle.com/bryanpark/the-world-english-bible-speech-dataset
 This dataset is composed of the following: <br>
 - README.md
 - wav files sampled at 12,000 KHZ
-- transcript.txt.
-<br>
+- transcript.txt. <br>
 
 `transcript.txt` is in a tab-delimited format. <br>
 
