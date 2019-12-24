@@ -1,4 +1,4 @@
-# capstone
+# is this AI?
 Brainstation Capstone Spring 2019 Project: is this AI?
 
 __Abstract/Motivation:__ <br>
